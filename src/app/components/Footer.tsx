@@ -4,15 +4,15 @@ const Footer = () => {
   const testimonials = [
     {
       name: 'John Doe',
-      feedback: 'Absolutely love the products! High quality and great service.',
+      feedback: "Absolutely love the products! High quality and great service"
     },
     {
       name: 'Jane Smith',
-      feedback: 'Fast delivery and the design is just perfect. Highly recommend!',
+      feedback: "Fast delivery and the design is just perfect. Highly recommend"
     },
     {
       name: 'Emily Johnson',
-      feedback: 'Excellent customer support and the materials feel premium.',
+      feedback: "Excellent customer support and the materials feel premium."
     },
   ];
 
